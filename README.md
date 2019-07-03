@@ -14,7 +14,7 @@ int main()
 		p = 1;
 		for (j = 1; j <= i; j++)
 			p *= j;
-		printf("%d!=%d\n", i, p);
+		printf("%2d! = %d\n", i, p);
 	}
 }
 
