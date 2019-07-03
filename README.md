@@ -2,7 +2,7 @@
 C_Language_Class
 
 
-첫 번째
+//첫 번째
 
 #include <stdio.h>
 
@@ -24,13 +24,13 @@ int main()
 
 
 
-두 번째
+//두 번째
 
 #include <stdio.h>
 
 int main()
 {
-	int i, j, p;
+	int i, p;
 
 	p = 1;
 	for (i = 1; i <= 10; i++)
